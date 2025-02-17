@@ -14,6 +14,12 @@
 
 <h2 align="left">Look At Some Fun Stats</h2>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gecarval/gecarval/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gecarval/gecarval/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gecarval/gecarval/output/github-snake.svg" />
+</picture>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gecarval&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gecarval&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
@@ -26,16 +32,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gecarval&label=Profile%20views&color=0e75b6&style=flat" alt="gecarval" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gecarval/gecarval/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gecarval/gecarval/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gecarval/gecarval/output/github-snake.svg" />
-</picture>
-
-###
 
 # 💻 Tech Stack:
 <div align="center">
