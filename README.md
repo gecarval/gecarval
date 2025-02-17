@@ -27,9 +27,12 @@
   <img src="https://komarev.com/ghpvc/?username=gecarval&label=Profile%20views&color=0e75b6&style=flat" alt="gecarval" />
 </div>
 
-<div align="center">
+###
+
+<br clear="center">
 <img src="https://raw.githubusercontent.com/gecarval/gecarval/output/snake.svg" alt="Snake animation" />
-</div>
+
+###
 
 # 💻 Tech Stack:
 <div align="center">
