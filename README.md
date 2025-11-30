@@ -2,15 +2,13 @@
 <h3 align="center">An intusiast at C/C++ and a Student at 42 Luanda</h3>
 
 # 💫 About Me:
-- I’m currently working on a AI based [FlockSim](https://github.com/gecarval/FlockSim).
+- I’m currently working on an AI [NeuralNetwork](https://github.com/gecarval/MachineLearning) in C++.
 - I’m currently learning and Loving **C/C++, ImGUI and Raylib**.
-- I’m looking forward for help with any possible debug on [FlockSim](https://github.com/gecarval/FlockSim).
 - All of my projects are available here at [https://github.com/gecarval](https://github.com/gecarval).
-- I regularly write articles on my git readme repos [https://github.com/gecarval?tab=repositories](https://github.com/gecarval?tab=repositories).
+- I regularly update my README on my git repos [https://github.com/gecarval?tab=repositories](https://github.com/gecarval?tab=repositories).
 - Ask me about anything for some knowledge exchange on **C/C++**.
 - How to reach me **gersonrcarvalho77@gmail.com**.
-- Know about my experiences on here [https://github.com/gecarval](https://github.com/gecarval).
-- Fun fact **I love Science!** Well at least I think is fun...
+- **I love** astronomy, anime and games...
 
 <h2 align="left">Look At Some Fun Stats</h2>
 
