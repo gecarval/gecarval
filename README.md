@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Gerson Carvalho</h1>
-<h3 align="center">An intusiast at C/C++ and a Student at 42Luanda</h3>
+<h3 align="center">An intusiast at C/C++ and a Student at 42 Luanda</h3>
 
 # 💫 About Me:
 - I’m currently working on a AI based [FlockSim](https://github.com/gecarval/FlockSim).
