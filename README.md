@@ -28,14 +28,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gecarval&theme=dark&hide_border=false" alt="gecarval" />
 </div>
 
-## 📌 Current Project
-
-<div align="center">
-
-[![GoATUI](https://github-readme-stats.vercel.app/api/pin/?username=gecarval&repo=GoATUI&theme=dark&hide_border=false)](https://github.com/gecarval/GoATUI)
-
-</div>
-
 ## 💻 Tech Stack:
 <div align="center">
 
