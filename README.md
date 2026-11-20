@@ -1,9 +1,10 @@
 <h1 align="center">Hi There, I'm Gerson Carvalho</h1>
-<h3 align="center">An intusiast at C/C++ and a Student at 42 Luanda</h3>
+<h3 align="center">An enthusiast of C/C++ and Go, and a Student at 42 Luanda</h3>
 
 # 💫 About Me:
-- I’m currently working on an AI [NeuralNetwork](https://github.com/gecarval/MachineLearning) in C++.
-- I’m currently learning and Loving **C/C++, ImGUI and Raylib**.
+- 🐐 I’m currently working on [**GoATUI**](https://github.com/gecarval/GoATUI), a terminal workspace for running and managing coding agents, written in **Go** with **Bubble Tea**.
+- I’ve also built an AI [NeuralNetwork](https://github.com/gecarval/MachineLearning) in C++.
+- I’m currently learning and Loving **Go, Bubble Tea and Lip Gloss**, alongside **C/C++, ImGUI and Raylib**.
 - All of my projects are available here at [https://github.com/gecarval](https://github.com/gecarval).
 - I regularly update my README on my git repos [https://github.com/gecarval?tab=repositories](https://github.com/gecarval?tab=repositories).
 - Ask me about anything for some knowledge exchange on **any** Language.
@@ -25,6 +26,14 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gecarval&theme=dark&hide_border=false" alt="gecarval" />
+</div>
+
+## 📌 Current Project
+
+<div align="center">
+
+[![GoATUI](https://github-readme-stats.vercel.app/api/pin/?username=gecarval&repo=GoATUI&theme=dark&hide_border=false)](https://github.com/gecarval/GoATUI)
+
 </div>
 
 ## 💻 Tech Stack:
