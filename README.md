@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiast of C/C++ and Go, and a Student at 42 Luanda</h3>
 
 # 💫 About Me:
-- 🐐 I’m currently working on [**GoATUI**](https://github.com/gecarval/GoATUI), a terminal workspace for running and managing coding agents, written in **Go** with **Bubble Tea**.
+- 🐐 I’m currently working on [**GoaTTY**](https://github.com/gecarval/GoaTTY), a terminal workspace for running and managing coding agents, written in **Go** with **Bubble Tea**.
 - I’ve also built an AI [NeuralNetwork](https://github.com/gecarval/MachineLearning) in C++.
 - I’m currently learning and Loving **Go, Bubble Tea and Lip Gloss**, alongside **C/C++, ImGUI and Raylib**.
 - All of my projects are available here at [https://github.com/gecarval](https://github.com/gecarval).
