@@ -2,9 +2,9 @@
 <h3 align="center">An enthusiast of C/C++ and Go, and a Student at 42 Luanda</h3>
 
 # 💫 About Me:
-- 🐐 I’m currently working on [**GoaTTY**](https://github.com/gecarval/GoaTTY), a terminal workspace for running and managing coding agents, written in **Go** with **Bubble Tea**.
-- I’ve also built an AI [NeuralNetwork](https://github.com/gecarval/MachineLearning) in C++.
-- I’m currently learning and Loving **Go, Bubble Tea and Lip Gloss**, alongside **C/C++, ImGUI and Raylib**.
+- 🐐 I’m currently working on [**GoaTTY**](https://github.com/gecarval/GoaTTY), a native Wayland terminal emulator for coding agents, written in **Go** with **Gio**. Sessions survive closing the window and even a reboot, orchestrator agents start specialists in their own tabs and drive terminals through **MCP**, and every terminal keeps a transcript with secrets censored.
+- I’ve also built [Perceptrons, Neural Networks and a CNN](https://github.com/gecarval/MachineLearning) from scratch in C++, and simulations like [FlockSim](https://github.com/gecarval/FlockSim), [Particle Life](https://github.com/gecarval/Particle-Life) and [Falling Sand](https://github.com/gecarval/Falling-Sand).
+- I’m currently learning and Loving **Go, Gio and Charm’s Bubble Tea**, alongside **C/C++, ImGUI and Raylib**.
 - All of my projects are available here at [https://github.com/gecarval](https://github.com/gecarval).
 - I regularly update my README on my git repos [https://github.com/gecarval?tab=repositories](https://github.com/gecarval?tab=repositories).
 - Ask me about anything for some knowledge exchange on **any** Language.
